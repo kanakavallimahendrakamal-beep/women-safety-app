@@ -1,0 +1,6 @@
+{
+  "name": "Andhra Pradesh Disha App",
+  "description": "A comprehensive safety application modeled after the AP Disha App, featuring real-time location sharing, automatic 10-second audio/video SOS recording and dispatch, and a dual-interface for citizen protection and admin response coordination.",
+  "requestFramePermissions": ["camera", "microphone", "geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
